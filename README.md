@@ -1,10 +1,10 @@
-Student Mark Prediction
+## Student Mark Prediction
 
-Overview
+# Overview
 
 This project utilizes machine learning to predict student marks based on various criteria such as study hours, attendance, previous scores, and other relevant factors. The model helps in assessing student performance and identifying key contributors to academic success.
 
-Features
+# Features
 
 Data collection and preprocessing
 
@@ -16,7 +16,7 @@ Performance metrics and accuracy analysis
 
 Visualization of predictions
 
-Technologies Used
+# Technologies Used
 
 Python
 
@@ -30,7 +30,7 @@ Matplotlib
 
 Seaborn
 
-Dataset
+# Dataset
 
 The dataset includes attributes such as:
 
@@ -44,7 +44,7 @@ Extra-curricular activities
 
 Sleep hours
 
-Model Used
+# Model Used
 
 Linear Regression
 
@@ -57,30 +57,29 @@ Support Vector Regression (SVR)
 Neural Networks (optional for deep learning approaches)
 
 Installation
-
-Clone the repository:
+# Clone the repository:
 
 git clone https://github.com/your-username/ml-project.git
 
-Navigate to the project directory:
+# Navigate to the project directory:
 
 cd ml-project
 
-Install dependencies:
+# Install dependencies:
 
 pip install -r requirements.txt
 
-Usage
+# Usage
 
 Run the preprocessing script to clean and prepare data:
 
 python preprocess.py
 
-Train the model:
+# Train the model:
 
 python train.py
 
-Make predictions:
+# Make predictions:
 
 python predict.py
 

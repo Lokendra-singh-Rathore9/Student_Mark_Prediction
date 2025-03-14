@@ -83,6 +83,6 @@ python train.py
 
 python predict.py
 
-Results
+# Results
 
 The model is evaluated using metrics like Mean Squared Error (MSE), R-squared (R²), and Mean Absolute Error (MAE). The predictions are visualized using graphs to better understand performance.
